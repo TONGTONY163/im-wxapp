@@ -12,7 +12,7 @@
     ],
     "tabBar": {
         "color": "#CDCDCD",
-        "selectedColor": "#1296DB",
+        "selectedColor": "#00C4B1",
         "list": [
             {
                 "pagePath": "pages/index/index",
@@ -36,9 +36,9 @@
     },
     "window": {
         "backgroundTextStyle": "light",
-        "navigationBarBackgroundColor": "#fff",
+        "navigationBarBackgroundColor": "#00C4B1",
         "navigationBarTitleText": "im-wxapp",
-        "navigationBarTextStyle": "black"
+        "navigationBarTextStyle": "white"
     },
     "style": "v2",
     "sitemapLocation": "sitemap.json"
